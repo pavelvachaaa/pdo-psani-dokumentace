@@ -4,9 +4,10 @@
   1. Studenti = zákazník
   2. Lidi ve spěchu = zákazník
   3. Kolemjdoucí = zákazník
-  4. Zaměstnanci (co nemají jinou možnost) = zákazník
-  5. Ti co to spravují
-  6. Ti co to doplňují
+  4. Postitžení
+  5. Zaměstnanci (co nemají jinou možnost) = zákazník
+  6. Ti co to spravují
+  7. Ti co to doplňují
 
 ## Jak to používá
 
