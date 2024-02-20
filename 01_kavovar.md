@@ -17,8 +17,8 @@
 3. krok - výběr množství cukru
 4. krok - platba (Vedle otvoru na mince/Vedle terminálu na karty)
 5. krok - vrácení peněz/zamítnutí platby
-5.5. krok - vezmi si víčko
-6. krok - vezmi si kafe
+6. krok - vezmi si víčko
+7. krok - vezmi si kafe
 
 ### Co potřebuje vědět opravář
 1. Jak se dostat do automatu
