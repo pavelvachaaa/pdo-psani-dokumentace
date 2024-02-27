@@ -7,10 +7,10 @@ Bezhotovostní platba za kávu
 ## Kafe
 Káva je nápoj z upražených a rozemletých semen kávovníků. Obsahuje látku kofein, která zvyšuje krevní tlak a podporuje srdeční činnost
 
-## Automat
+## Automat
 Automat na kávu je zařízení, které automaticky připravuje různé druhy kávy a dalších horkých nápojů
 
-## Cukr
+## Cukr
 Sládké dochucovadlo jídel a nápojů. Jsou to malé bílé krystalky
 
 ## Víčko
