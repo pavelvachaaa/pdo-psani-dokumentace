@@ -26,17 +26,17 @@ Rembember the milk
 
 
 ## Tabulka 
+Relevantní.
+
 Vyhodnocení jednotlivých kritérií 
 
-|                    | Aplikace | Web | Cena | Multijazyčné | Upozornění | Sdílení | API | Operační systémy | Funkčnost bez internetu | Synchronizace | Jednoduchost zadání |
-|--------------------|----------|-----|------|--------------|------------|---------|-----|------------------|-------------------------|---------------|---------------------|
-| Připomínky (Apple) |          |     |      |              |            |         |     |                  |                         |               |                     |
-| Todoist            |          |     |      |              |            |         |     |                  |                         |               |                     |
-| Google Tasks       |          |     |      |              |            |         |     |                  |                         |               |                     |
-| Microsoft Todo     |          |     |      |              |            |         |     |                  |                         |               |                     |
-| Trello             |          |     |      |              |            |         |     |                  |                         |               |                     |
-| Clockify           |          |     |      |              |            |         |     |                  |                         |               |                     |
-| Remember the milk  |          |     |      |              |            |         |     |                  |                         |               |                     |
-
+|                    | Aplikace | Web   | Cena        | Multijazyčné | Upozornění | Sdílení | API | Operační systémy                      | Funkčnost bez internetu | Synchronizace | Jednoduchost zadání* |
+|--------------------|----------|-------|-------------|--------------|------------|---------|-----|---------------------------------------|-------------------------|---------------|----------------------|
+| Připomínky (Apple) | ANO      | Ano | ZDARMA      | ANO          | ANO        | ANO     | ANO | iOS                                   | Ano                     | Ano           | 2                    |
+| Todoist            | Ano      | Ano   | ZDARMA,ALE  | Ano          | Ano        | Ano     | Ano | Všechny relevantní                       | Ano                     | Ano           |                      |
+| Google Tasks       | Ano      | Ano   | Zdarma      | Ano          | Ano        | NE*     | ANO | Jen mobil a web (nemá nativní WIN, Mac ani Linux) | Ano                     | Ano           | 2                    |
+| Microsoft Todo     | Ano      | Ano   | Ano         | Ano          | Ano        | Ano     | Ano | Všechny relevantní            | Ano                     | Ano           | 2                    |
+| Trello             | Ano      | Ano   | ZDARMA, ale | Ano          | Ano        | Ano     | Ano | Všechny relevantní                    | Ano                     | Ano           | 2-ish                |
+| Remember the milk  | Ano      | Ano   | Zdarma      | Ano, ale     | Ano        | Ano     | Ano | Všechny relevantní                    | Ano                     | Ano           | 2                    |
 
 ## Závěr 
