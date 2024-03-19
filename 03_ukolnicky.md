@@ -30,12 +30,13 @@ Relevantní.
 
 Vyhodnocení jednotlivých kritérií 
 
-|                    | Aplikace | Web   | Cena        | Multijazyčné | Upozornění | Sdílení | API | Operační systémy                      | Funkčnost bez internetu | Synchronizace | Jednoduchost zadání* |
-|--------------------|----------|-------|-------------|--------------|------------|---------|-----|---------------------------------------|-------------------------|---------------|----------------------|
-| Připomínky (Apple) | ANO      | Nevím | ZDARMA      | ANO          | ANO        | ANO     | ANO | iOS                                   | Ano                     | Ano           | 2                    |
-| Todoist            | Ano      | Ano   | ZDARMA,ALE  | Ano          | Ano        | Ano     | Ano | Snad všechny                          | Ano                     | Ano           |                      |
-| Google Tasks       | Ano      | Ano   | Zdarma      | Ano          | Ano        | NE*     | ANO | všechny relevantní (nemá nativní WIN) | Ano                     | Ano           | 2                    |
-| Microsoft Todo     | Ano      | Ano   | Ano         | Ano          | Ano        | Ano     | Ano | Windows, iOS, Android                 | Ano                     | Ano           | 2                    |
-| Trello             | Ano      | Ano   | ZDARMA, ale | Ano          | Ano        | Ano     | Ano | Všechny relevantní                    | Ano                     | Ano           | 2-ish                |
-| Remember the milk  | Ano      | Ano   | Zdarma      | Ano, ale     | Ano        | Ano     | Ano | Všechny relevantní                    | Ano                     | Ano           | 2                    |
+|                    | Aplikace | Web | Cena          | Multijazyčné | Upozornění | Sdílení | API | Operační systémy                      | Funkčnost bez internetu | Synchronizace | Jednoduchost zadání* | Ekosystémy | Štítkování | Skupiny | UX (1-5) | Integrace kalendářů        |
+|--------------------|----------|-----|---------------|--------------|------------|---------|-----|---------------------------------------|-------------------------|---------------|----------------------|------------|------------|---------|----------|----------------------------|
+| Připomínky (Apple) | ✅        | ✅   | ZDARMA        | ✅            | ✅          | ✅       | ✅   | iOS                                   | ✅                       | ✅             | 2                    |            |            |         |          | iCalendar, Google calendar |
+| Todoist            | ✅        | ✅   | ZDARMA,ALE 💰  | ✅            | ✅          | ✅       | ✅   | Snad všechny, linux app               | ✅                       | ✅             |                      |            |            |         |          | Google Calendar            |
+| Google Tasks       | ✅        | ✅   | Zdarma        | ✅            | ✅          | NE*     | ✅   | všechny relevantní (nemá nativní WIN) | ✅                       | ✅             | 2                    |            |            |         |          | Google Calendar            |
+| Microsoft Todo     | ✅        | ✅   | Zdarma        | ✅            | ✅          | ✅       | ✅   | Windows, iOS, Android                 | ✅                       | ✅             | 2                    |            |            |         |          |                            |
+| Trello             | ✅        | ✅   | ZDARMA, ale 💰 | ✅            | ✅          | ✅       | ✅   | Všechny relevantní                    | ✅                       | ✅             | 2-ish                |            |            |         |          | iCalendar, Google calendar |
+| Remember the milk  | ✅        | ✅   | Zdarma, ale   | 🥴            | ✅, ALE :(  | ✅       | ✅   | Všechny relevantní                    | ✅                       | ✅             | 2                    |            |            |         |          | iCalendar                  |
+
 ## Závěr 
