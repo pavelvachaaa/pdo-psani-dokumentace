@@ -32,11 +32,10 @@ Vyhodnocení jednotlivých kritérií
 
 |                    | Aplikace | Web   | Cena        | Multijazyčné | Upozornění | Sdílení | API | Operační systémy                      | Funkčnost bez internetu | Synchronizace | Jednoduchost zadání* |
 |--------------------|----------|-------|-------------|--------------|------------|---------|-----|---------------------------------------|-------------------------|---------------|----------------------|
-| Připomínky (Apple) | ANO      | Ano | ZDARMA      | ANO          | ANO        | ANO     | ANO | iOS                                   | Ano                     | Ano           | 2                    |
-| Todoist            | Ano      | Ano   | ZDARMA,ALE  | Ano          | Ano        | Ano     | Ano | Všechny relevantní                       | Ano                     | Ano           |                      |
-| Google Tasks       | Ano      | Ano   | Zdarma      | Ano          | Ano        | NE*     | ANO | Jen mobil a web (nemá nativní WIN, Mac ani Linux) | Ano                     | Ano           | 2                    |
-| Microsoft Todo     | Ano      | Ano   | Ano         | Ano          | Ano        | Ano     | Ano | Všechny relevantní            | Ano                     | Ano           | 2                    |
+| Připomínky (Apple) | ANO      | Nevím | ZDARMA      | ANO          | ANO        | ANO     | ANO | iOS                                   | Ano                     | Ano           | 2                    |
+| Todoist            | Ano      | Ano   | ZDARMA,ALE  | Ano          | Ano        | Ano     | Ano | Snad všechny                          | Ano                     | Ano           |                      |
+| Google Tasks       | Ano      | Ano   | Zdarma      | Ano          | Ano        | NE*     | ANO | všechny relevantní (nemá nativní WIN) | Ano                     | Ano           | 2                    |
+| Microsoft Todo     | Ano      | Ano   | Ano         | Ano          | Ano        | Ano     | Ano | Windows, iOS, Android                 | Ano                     | Ano           | 2                    |
 | Trello             | Ano      | Ano   | ZDARMA, ale | Ano          | Ano        | Ano     | Ano | Všechny relevantní                    | Ano                     | Ano           | 2-ish                |
 | Remember the milk  | Ano      | Ano   | Zdarma      | Ano, ale     | Ano        | Ano     | Ano | Všechny relevantní                    | Ano                     | Ano           | 2                    |
-
 ## Závěr 
