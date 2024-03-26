@@ -4,7 +4,7 @@
 
  * Jednoduchost - Kolik kliknutí potřebuji k vytvoření úkolů: Měří jednoduchost a rychlost vytváření nových úkolů. Optimální je minimalizace kliknutí a snadná navigace v 
    aplikaci.
-* Synchronizace mezi - Zajišťuje, že vaše úkoly budou aktuální na všech zařízeních, která používáte (např. telefon, tablet, počítač). Důležité pro udržení konzistence a produktivity.
+* Synchronizace - Zajišťuje, že vaše úkoly budou aktuální na všech zařízeních, která používáte (např. telefon, tablet, počítač). Důležité pro udržení konzistence a produktivity.
 * Cena - Hodnocení cenové dostupnosti aplikace. Některé aplikace mohou nabízet základní verzi zdarma a placené funkce ve vyšších cenových plánech.
 * Web nebo native (kombinace)
 * Offline ready? - Jsem schopný vytvořit úkol offline a následně po připojení ho synchronizovat?
