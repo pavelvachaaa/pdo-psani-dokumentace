@@ -37,16 +37,28 @@ Rembember the milk
 5 - Vynikající UI: Rozhraní je skvěle navržené a poskytuje uživatelům maximální komfort a efektivitu. Je intuitivní, přehledné a esteticky působivé. Všechny funkce jsou snadno dostupné a aplikace nabízí vynikající uživatelský zážitek.
 
 ## Tabulka 
-Vyhodnocení jednotlivých kritérií 
 
-|                    | Aplikace | Web | Cena          | Multijazyčné | Upozornění | Sdílení | API | Operační systémy                      | Funkčnost bez internetu | Synchronizace | Jednoduchost zadání* | Ekosystémy | Štítkování | Skupiny | UX (1-5) | Integrace kalendářů        |
-|--------------------|----------|-----|---------------|--------------|------------|---------|-----|---------------------------------------|-------------------------|---------------|----------------------|------------|------------|---------|----------|----------------------------|
-| Připomínky (Apple) | ✅        | ✅   | ZDARMA        | ✅            | ✅          | ✅       | ✅   | iOS                                   | ✅                       | ✅             | 2                    | Apple      | Ano        | Ne      | 5        | iCalendar, Google calendar |
-| Todoist            | ✅        | ✅   | ZDARMA,ALE 💰 (4$, 6$ per user)  | ✅            | 💰          | ✅       | ✅   | Snad všechny, linux app               | ✅                       | ✅             | 2                    | Ne         | Ano        | 💰       | 5        | Google Calendar            |
-| Google Tasks       | ✅        | ✅   | Zdarma        | ✅            | ✅          | NE      | ✅   | všechny relevantní (nemá nativní WIN) | ✅                       | ✅             | 2                    | Google     | Ne         | Ne      | 4        | Google Calendar            |
-| Microsoft Todo     | ✅        | ✅   | Zdarma        | ✅            | ✅          | ✅       | ✅   | Windows, iOS, Android                 | ✅                       | ✅             | 2                    | Microsoft  | Ano        | Ano     | 5        | Google Calendar            |
-| Trello             | ✅        | ✅   | ZDARMA, ale 💰 (5/10/17.5 per user)$| ✅            | ✅          | ✅       | ✅   | Všechny relevantní                    | ✅                       | ✅             | 2-ish                | Ne         | Ano        | Ano     | 2        | iCalendar, Google calendar |
-| Remember the milk  | ✅        | ✅   | ZDARMA, ale 💰 (49.99)$ | 🥴            | 💰          | ✅       | ✅   | Všechny relevantní                    | ✅                       | ✅             | 2                    | Ne         | 💰          | 💰       | 3        | iCalendar                  |
+
+|                    | Připomínky (Apple) | Todoist | Google Tasks | Microsoft Todo | Trello | Remember the milk |
+|--------------------|---------------------|---------|--------------|----------------|--------|-------------------|
+| Aplikace           | ✅                  | ✅      | ✅           | ✅             | ✅     | ✅                |
+| Web                | ✅                  | ✅      | ✅           | ✅             | ✅     | ✅                |
+| Cena               | ZDARMA              | ZDARMA,ALE 💰 (4$, 6$ per user) | Zdarma | Zdarma         | ZDARMA, ale 💰 (5/10/17.5 per user) | ZDARMA, ale 💰 (49.99)$ |
+| Multijazyčné       | ✅                  | ✅      | ✅           | ✅             | ✅     | 🥴                |
+| Upozornění         | ✅                  | 💰      | ✅           | ✅             | ✅     | 💰                |
+| Sdílení            | ✅                  | ✅      | NE           | ✅             | ✅     | ✅                |
+| API                | ✅                  | ✅      | ✅           | ✅             | ✅     | ✅                |
+| Operační systémy   | iOS                 | Snad všechny, linux app | všechny relevantní (nemá nativní WIN) | Windows, iOS, Android | Všechny relevantní | Všechny relevantní |
+| Funkčnost bez internetu | ✅             | ✅      | ✅           | ✅             | ✅     | ✅                |
+| Synchronizace      | ✅                  | ✅      | ✅           | ✅             | ✅     | ✅                |
+| Jednoduchost zadání* | 2                 | 2       | 2            | 2              | 2-ish  | 2                 |
+| Ekosystémy         | Apple               | Ne      | Google       | Microsoft      | Ne     | Ne                |
+| Štítkování         | Ano                 | Ano     | Ne           | Ano            | Ano    | 💰                |
+| Skupiny            | Ne                  | 💰      | Ne           | Ano            | Ano    | 💰                |
+| UX (1-5)           | 5                   | 5       | 4            | 5              | 2      | 3                 |
+| Integrace kalendářů | iCalendar, Google calendar | Google Calendar | Google Calendar | Google Calendar | iCalendar, Google calendar | iCalendar |
+
+
 
 ## Závěr 
 Většina aplikací byla poměrně srovnatelná. Nejvíce funkcionalit chybělo v Google Tasks, kde by bylo nutné použít další rozšiření. Naopak Todoist, Microsoft To Do a Trello toho uměli nejvíce. U Trella bylo akorát problémem hůře vyhlížející uživatelské prostředí. 
