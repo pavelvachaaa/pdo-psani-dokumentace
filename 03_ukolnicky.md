@@ -1,4 +1,4 @@
-# Úkolníčky
+# Úkolníčky
 
 ## Kritéria výběru
 
@@ -36,7 +36,7 @@ Rembember the milk
 
 5 - Vynikající UI: Rozhraní je skvěle navržené a poskytuje uživatelům maximální komfort a efektivitu. Je intuitivní, přehledné a esteticky působivé. Všechny funkce jsou snadno dostupné a aplikace nabízí vynikající uživatelský zážitek.
 
-## Tabulka 
+## Tabulka 
 Vyhodnocení jednotlivých kritérií 
 
 |                    | Aplikace | Web | Cena          | Multijazyčné | Upozornění | Sdílení | API | Operační systémy                      | Funkčnost bez internetu | Synchronizace | Jednoduchost zadání* | Ekosystémy | Štítkování | Skupiny | UX (1-5) | Integrace kalendářů        |
