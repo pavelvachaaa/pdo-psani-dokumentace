@@ -2,7 +2,7 @@
 
 ## V Shellu (Z grafického rozhraní)
 
-1. Stiskněte klávesu `Windows (⊞)` + `T`
+1. Stiskněte klávesu `Windows (⊞)` + `T`.
 2. Napište:
 ```bash
 df -h
@@ -25,17 +25,17 @@ tmpfs            99M     0   99M   0% /run/user/1000
 
 ## V Linuxu
 Funknční návod pro čistou instalaci s MATE.
-1. Klikněte na "Menu" 
-2. Do vyhledávacího pole zadejte "MATE Disk Usage Analyzer"
-3. Stiskněte klávesu `ENTER` 
+1. Klikněte na "Menu".
+2. Do vyhledávacího pole zadejte "MATE Disk Usage Analyzer".
+3. Stiskněte klávesu `ENTER`.
 4. Vidíte souhrn disku, jejich kapacit a jejich využití.
 
 
 ## Ve Windows
 Tento návod je pro Windows v čestině.
-1. Stiskněte klávesu `Windows (⊞)` + `E`
-2. V levém panelu zvolte položku "Tento počítač"
-3. V sekci "Zařízení a jednotky" vidíte jednotlivé disky s jejich kapacitou a volným místem
+1. Stiskněte klávesu `Windows (⊞)` + `E`.
+2. V levém panelu zvolte položku "Tento počítač".
+3. V sekci "Zařízení a jednotky" vidíte jednotlivé disky s jejich kapacitou a volným místem.
 
 
 
