@@ -28,10 +28,11 @@ Funknční návod pro čistou instalaci s MATE.
 1. Klikni na "Menu" 
 2. Do vyhledávacího pole zadejte "MATE Disk Usage Analyzer"
 3. Stiskněte ENTER 
-4, Vidíte souhrn disku, jejich kapacit a jejich využití.
+4. Vidíte souhrn disku, jejich kapacit a jejich využití.
 
 
 ## Ve Windows
+Tento návod je pro Windows v čestině.
 1. Stiskni klávesu Windows + E
 2. V lévém panelu zvolte položku "Tento počítač"
 3. V sekci "Zařízení a jednotky" vidíte jednotlivé disky s jejich kapacitou a volním místem
