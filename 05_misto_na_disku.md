@@ -34,7 +34,7 @@ Funknční návod pro čistou instalaci s MATE.
 ## Ve Windows
 Tento návod je pro Windows v čestině.
 1. Stiskněte klávesu `Windows (⊞)` + `E`
-2. V lévém panelu zvolte položku "Tento počítač"
+2. V levém panelu zvolte položku "Tento počítač"
 3. V sekci "Zařízení a jednotky" vidíte jednotlivé disky s jejich kapacitou a volným místem
 
 
